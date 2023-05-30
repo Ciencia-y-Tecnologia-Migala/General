@@ -1,3 +1,4 @@
+
 # Ciencia y Tecnología Migala :notebook_with_decorative_cover: 
 
 ---
@@ -15,9 +16,15 @@
 
 ## Reglamento :page_with_curl:
 
-1. [...]
-2. [...]
-3. [...]
+El reglamento general del Proyecto Migala puede encontrase en el siguiente enlace: [Reglamento de Ciencia y Tecnología de Proyecto Migala](https://cienciaytecnologiamigala.notion.site/Reglamento-Vigente-83c33938fce1434fa9c1c203250a0464)
+
+### Reglamento del repositorio
+
+1. La información mostrada en este repositorio es de carácter público y cualquier apropiación, alteración y distribución sin autorización del Proyecto Migala será responsabilidad única de los responsables de dichas acciones.
+2.	Si algún miembro de esta organización comete una falta o hace uso indebido de la información será expulsado de la organización. Estas faltas están sujetas mas no limitadas a lo mostrado en el Reglamento Interno del Proyecto Migala
+3.	El Proyecto Migala se deslinda de toda responsabilidad sobre el mal uso de este reglamento
+4.	Solo los miembros pertenecientes al grupo de “Ciencia y Tecnología” del Proyecto Migala y con una cuenta en GitHub podrán hacer modificaciones a los repositorios existentes en esta organización
+5.	Este reglamento está sujeto a cambios de acuerdo con el progreso del proyecto [Reglamento de Proyecto Migala](https://cienciaytecnologiamigala.notion.site/Reglamento-Vigente-83c33938fce1434fa9c1c203250a0464)
 
 [*Return to top*](#ciencia-y-tecnología-migala-notebook_with_decorative_cover)
 
