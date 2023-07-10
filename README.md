@@ -31,6 +31,8 @@ El reglamento general del Proyecto Migala puede encontrase en el siguiente enlac
 5. Cualquier modificación NO AUTORIZADA a los reglamentos de esta organización será motivo de expulsión
 6. Este reglamento está sujeto a cambios de acuerdo con el progreso del [Proyecto Migala](https://cienciaytecnologiamigala.notion.site/Reglamento-Vigente-83c33938fce1434fa9c1c203250a0464)
 
+Queda pendiente el criterio de selección de cambios aceptados/rechazados
+
 ### Reglamento para los Dueños de la Organización en GitHub
 
 **Este reglamento está sujeto a cambios sin previo aviso. Cualquier cambio será notificado a los miembros de la organización**
@@ -57,9 +59,11 @@ El reglamento general del Proyecto Migala puede encontrase en el siguiente enlac
 
 ## Objetivos :dart:
 
-1. [...]
-2. [...]
-3. [...]
+1. Mantener un espacio (repositorio) centralizado y abierto a la comunidad del Grupo de Ciencias y Tecnología Migala.
+2. Tener un sistema de almacenamiento, seguro y público, para archivos que requieran de un [Sistema de Control de Versiones](https://www.atlassian.com/es/git/tutorials/what-is-version-control) para tener un registro de sus modificaciones.
+3. Llevar un registro abierto y congruente de las modificaciones de cualquier proyecto perteneciente al Grupo de Ciencia y Tecnología.
+4. Incrementar la participación de los miembros al proveer información pública, transparente y de libre acceso relacionada con los proyectos de Ciencia y Tecnología.
+5. Promover la transparencia y la confianza al mantener un historial de cambios y decisiones tomadas durante el desarrollo del proyecto.
 
 [*Return to top*](#ciencia-y-tecnología-migala-notebook_with_decorative_cover)
 
